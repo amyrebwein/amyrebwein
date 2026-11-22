@@ -7,8 +7,16 @@ This profile documents that transition in public, so expect early-stage work tha
 ## Currently
 
 - **Research rotation** with Dr. Blake Dewey: how MRI resolution affects FreeSurfer brain measurements
+- **Research methods group project:** hospital readmissions
+- **Side project:** simulating emergency department wait times and left-without-being-seen (LWBS) rates
 - **Coursework:** SQL on de-identified EHR data, clinical data analysis in Python, biostatistics in R
 - **Habits:** tests, type hints, packaging and CI on everything I push here
+
+## Done so far
+
+- **Observational research with OMOP (Aug–Oct 2026):** team phenotype for lipoprotein(a) and incident cardiovascular disease using OHDSI tools (Atlas, Athena); I owned the validation plan
+- **Precision medicine data analytics:** patient data inside a secure research platform
+- Intro to biomedical informatics · Biostatistics I · Research Methods I
 
 ## Research: MRI resolution and brain measurements
 
@@ -46,6 +54,7 @@ FreeSurfer · radifox-utils · Apptainer · Python (nibabel, NumPy, pandas, matp
 
 | When | Focus |
 | --- | --- |
+| Fall 2026 (now) | MRI resolution rotation, hospital readmissions project, ED LWBS simulator, Python and SQL refresh |
 | Winter–spring 2027 | Second research rotation; ML fundamentals, PyTorch, deep learning for medical imaging, experiment tracking |
 | Summer 2027 | Thesis research begins; internship if I can land one |
 | 2027–2028 | Model deployment and monitoring, computer vision for health tech |
